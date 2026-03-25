@@ -1,8 +1,11 @@
 ### Oi meu nome é Tallison.  
-Tenho 30 anos, moro em Ribeirão das Neves-MG e poossuo visão monocular. 
+Tenho 32 anos, moro em Ribeirão das Neves-MG e poossuo visão monocular. 
 Trabalho com atendimento ao publico porem estou focado em trocar de área, e a área de programação me despertou um forte interesse.  
 
 👨🏾‍💻 - Atualmente estou estudando programação atraves do curso da [B7WEB](https://lp.b7web.com.br/curso?utm_source=g_search&gad_source=1&gclid=Cj0KCQjwn7mwBhCiARIsAGoxjaKafuHIWkwGxlukbSFCGuuMdbCIC1QO91-hbV-ghNlC4y1Fd2IFp2oaAgnNEALw_wcB)  
+
+👨🏾‍💻 - E ingressei na faculdade de Analise e desenvolmento de sistemas na UNICESUMAR
+   - Primeiro periodo!
 
 Estou estudando Front-end no momento, porem pretendo enteder um pouco de tudo no futuro.  
 
